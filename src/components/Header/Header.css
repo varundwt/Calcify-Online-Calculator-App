@@ -1,0 +1,11 @@
+.header{
+    height: 10vh;
+    background-color: #F6F5F2;
+}
+
+img{
+    margin-top: 12px;
+    align-items: center;
+    justify-content: center;
+    height: 12vh;
+}
